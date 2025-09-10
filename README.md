@@ -88,6 +88,7 @@ Internationalization support - [Template with i18n](https://tailwind-nextjs-star
 - [Ryan Fitton's Blog](https://ryanfitton.co.uk/) – A custom theme version with 'Portfolio' section. Used as a personal Blog/Portfolio for development projects. ([source code](https://github.com/ryanfitton/ryanfitton-nextjs-2024))
 - [ktovoz.com](https://www.ktovoz.com/) - Kto's personal blog, sharing life, technology. Added article categories and article directory navigation 「中文」
 
+
 Using the template? Feel free to create a PR and add your blog to this list.
 
 ## Examples V1
